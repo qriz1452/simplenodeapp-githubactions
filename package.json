@@ -1,0 +1,23 @@
+{
+  "name": "simplenodeapp-githubactions",
+  "version": "1.0.0",
+  "description": "test node app for github actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qriz1452/simplenodeapp-githubactions.git"
+  },
+  "author": "Quazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qriz1452/simplenodeapp-githubactions/issues"
+  },
+  "homepage": "https://github.com/qriz1452/simplenodeapp-githubactions#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
